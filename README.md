@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Leviking19
-- 👀 I’m interested in a lot of things!!
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  👋 Hi, I’m @Leviking19
+  🌱 I’m currently learning software engineering.
 
 <!---
 Leviking19/Leviking19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
